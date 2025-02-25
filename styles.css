@@ -4,6 +4,10 @@ body {
   margin: 0;
 }
 
+img {
+  max-width: 300px;
+}
+
 h1 {
   color: white;
 }
