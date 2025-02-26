@@ -8,6 +8,15 @@ h1 {
   color: white;
 }
 
+figure {
+  margin: 0;
+}
+
+figcaption {
+    font-size: 14px;
+    font-style: italic;
+}
+
 .design-section {
   display: flex;
   flex-direction: column;
